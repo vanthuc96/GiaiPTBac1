@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:text="Kết quả phương trình bậc nhất"
+        android:background="@color/colorGreen"
+        android:textAlignment="center"
+        android:textColor="@color/oolorWhite"
+        android:textSize="20dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="40dp" />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:text="Back"
+        android:background="@color/colorRed"
+        android:textColor="@color/oolorWhite"/>
+</LinearLayout>
